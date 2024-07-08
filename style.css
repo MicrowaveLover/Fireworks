@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    color:white;
+    padding:10px;
+    margin:10px;
+    font-size:30px
+}
+
+
+header a {
+    color:blue;
+    text-decoration: none;
+}
+
+main h1 {
+    background-color: lightblue;
+    color:blue;
+    text-align: center;
+}
+
+footer {
+    background-color: lightblue;
+}
+
+footer p {
+    border:1px solid white;
+    background-color: white;
+    margin:15px;
+    padding:10px
+}
+
+nav {
+    border-top:5px solid lightblue;
+    border-bottom: 5px solid lightblue;
+}
+
+nav a {
+    text-decoration: none;
+    margin:20px;
+    padding:50px;
+    color:blue;
+}
+
+.abc {
+    border: 5px solid red;
+    border-radius:10px;
+    background-color: lightcoral;
+    color:white
+}
