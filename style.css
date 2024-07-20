@@ -24,6 +24,7 @@ main h1 {
 
 footer {
     background-color: lightblue;
+    padding:10px;
 }
 
 footer p {
@@ -48,5 +49,8 @@ nav a {
     border: 5px solid red;
     border-radius:10px;
     background-color: lightcoral;
-    color:white
+    color:white;
+}
+
+ul {
 }
